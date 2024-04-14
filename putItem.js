@@ -11,7 +11,8 @@ const orderItem = {
   TableName: 'OrdersTable',
   Item: {
     'CustomerId': 'C001',
-    'OrderDate': '2024-04-06',
+    'OrderId': '12',
+    'OrderDate': '2024-04-08',
     'OrderDetails': {
       'ProductID': 'P001',
       'Quantity': 2
